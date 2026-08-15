@@ -38,6 +38,8 @@ The pitch-detection utility (`utils/pitchDetection.js`) was provided as course s
 ├── utils/pitchDetection.js  Provided course utility (see Credit above)
 ```
 
+Note: utils/pitchDetection.js was provided as course starter code and is not included in this repository, as I no longer have a personal copy. The code shown here (page.js, notes.js, canvas.js) represents my own work built on top of that utility.
+
 ## Course Context
 
 Built for a graduate-level Web Programming course, Rutgers School of Communication and Information, under Professor Anselm Spoerri. I'll be working with Professor Spoerri again in my upcoming capstone course and plan to confirm with him directly on any additional public-sharing considerations for course materials.
