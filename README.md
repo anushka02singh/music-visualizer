@@ -2,7 +2,7 @@
 
 A Next.js/React application that listens to live microphone input, detects the musical pitch being played or sung in real time, and renders animated generative flower graphics on a canvas — each flower's position and appearance driven by the detected note.
 
-Built for Exercise 4 in my graduate Web Programming course at Rutgers University, taught by Professor Anselm Spoerri. [Full assignment details](https://aspoerri.comminfo.rutgers.edu/Teaching/WebProg/Exercises.html#Ex4).
+Built for Exercise 4 in my graduate Web Programming course at Rutgers University.
 
 ## How It Works
 
@@ -21,7 +21,7 @@ Built for Exercise 4 in my graduate Web Programming course at Rutgers University
 
 ## Credit
 
-The pitch-detection utility (`utils/pitchDetection.js`) was provided as course starter code by Professor Anselm Spoerri for Rutgers Web Programming (course 559) and is used here with attribution. All other code — the React components, canvas rendering, animation logic, and note-to-visual mapping — is my own work.
+The pitch-detection utility (`utils/pitchDetection.js`) was provided as course starter code for Rutgers Web Programming (course 559) and is used here with attribution. All other code — the React components, canvas rendering, animation logic, and note-to-visual mapping — is my own work.
 
 ## Tech Stack
 
@@ -42,4 +42,4 @@ Note: utils/pitchDetection.js was provided as course starter code and is not inc
 
 ## Course Context
 
-Built for a graduate-level Web Programming course, Rutgers School of Communication and Information, under Professor Anselm Spoerri. I'll be working with Professor Spoerri again in my upcoming capstone course and plan to confirm with him directly on any additional public-sharing considerations for course materials.
+Built for a graduate-level Web Programming course, Rutgers School of Communication and Information.
